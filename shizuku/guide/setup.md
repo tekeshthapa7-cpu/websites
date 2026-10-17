@@ -1,4 +1,4 @@
-# User manual
+# User manualRedmi Note 13 Pro+ 5G
 
 [[toc]]
 
